@@ -1,7 +1,7 @@
 
 
 # CLO835 – Assignment 2  
-## Containerized 2-Tier Employees Application (Docker → Kubernetes)#
+## Containerized 2-Tier Employees Application (Docker → Kubernetes)# Install the required MySQL package
 
 sudo apt-get update -y
 sudo apt-get install mysql-client -y
